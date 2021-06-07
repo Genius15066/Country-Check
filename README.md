@@ -13,5 +13,5 @@
 * React Router 
 * Rest Countries API
 
-[Expo Link]('exp://exp.host/@genius15/country-deck)
+[Expo Link]('exp://exp.host/@genius15/country-deck')
 
