@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "country",
-    "slug": "country",
+    "name": "Country Deck",
+    "slug": "country-deck",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -35,5 +35,7 @@
         }
       }
     },
+    "description": "",
+    "githubUrl": "https://github.com/Genius15066/Native-Country"
   }
 }
